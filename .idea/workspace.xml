@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d196a5e-5f1a-422c-b820-26e7f6e8a99c" name="Default Changelist" comment="" />
+    <list default="true" id="5d196a5e-5f1a-422c-b820-26e7f6e8a99c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/633a.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/a.py" beforeDir="false" afterPath="$PROJECT_DIR$/a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/copycopy.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +20,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aCNkDONEjMLsu8du8vfvk9ZktJ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,7 +32,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager" selected="Python.a">
     <configuration name="a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -159,10 +168,18 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="532" y="313" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1586275123299" />
+    <state x="424" y="26" key="CommitChangelistDialog2" timestamp="1592376336390">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="424" y="26" key="CommitChangelistDialog2/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1592376336390" />
     <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1592374466653">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1592374466653" />
+    <state x="639" y="326" key="Github.ShareDialog" timestamp="1592375988122">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="639" y="326" key="Github.ShareDialog/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1592375988122" />
     <state width="526" height="951" key="GridCell.Tab.0.bottom" timestamp="1589050731000">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
@@ -207,16 +224,24 @@
     </state>
     <state width="1515" height="277" key="GridCell.Tab.1.right/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1586855994949" />
     <state width="1515" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1586794894843" />
-    <state x="279" y="78" key="SettingsEditor" timestamp="1586581395061">
+    <state x="279" y="78" key="SettingsEditor" timestamp="1592375859019">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="279" y="78" key="SettingsEditor/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1586581395061" />
+    <state x="279" y="78" key="SettingsEditor/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1592375859019" />
     <state x="279" y="78" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1586530848623" />
-    <state x="477" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1592374360574">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1592376481885">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="477" y="260" key="com.intellij.ide.util.TipDialog/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1592374360574" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1592376481885" />
+    <state x="477" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1592375612661">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="477" y="260" key="com.intellij.ide.util.TipDialog/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1592375612661" />
     <state x="477" y="260" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1586788799891" />
+    <state x="456" y="224" key="git4idea.merge.GitPullDialog" timestamp="1592376379275">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="456" y="224" key="git4idea.merge.GitPullDialog/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1592376379275" />
     <state x="431" y="181" key="search.everywhere.popup" timestamp="1586711791967">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
