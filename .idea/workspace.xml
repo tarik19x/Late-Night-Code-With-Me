@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d196a5e-5f1a-422c-b820-26e7f6e8a99c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Codeforces Round #650 (Div. 3) @a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces Round #650 (Div. 3)@b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cf 1369 a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cf 1369b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cf 1370 a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cf 1370 b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1360a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1363a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cf658.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/1374a.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug&amp;test.py" beforeDir="false" afterPath="$PROJECT_DIR$/debug&amp;test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cf#1343b.py" beforeDir="false" afterPath="$PROJECT_DIR$/cf#1343b.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +38,8 @@
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Python.cf 1369b">
-    <configuration name="cf 1369 a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.cf#1343b">
+    <configuration name="1360a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,7 +51,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cf 1369 a.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1360a.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -62,7 +60,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="cf 1369b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1363a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,7 +72,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cf 1369b.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1363a.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="cf 1370 a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1374a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,11 +89,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cf 1370 a.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/1374a.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="cf 1370 b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="cf658" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,7 +114,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cf 1370 b.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cf658.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="debug&amp;test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="cf#1343b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,7 +135,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/debug&amp;test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cf#1343b.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.cf 1369b" />
-        <item itemvalue="Python.cf 1369 a" />
-        <item itemvalue="Python.cf 1370 b" />
-        <item itemvalue="Python.debug&amp;test" />
-        <item itemvalue="Python.cf 1370 a" />
+        <item itemvalue="Python.cf#1343b" />
+        <item itemvalue="Python.cf658" />
+        <item itemvalue="Python.1360a" />
+        <item itemvalue="Python.1363a" />
+        <item itemvalue="Python.1374a" />
       </list>
     </recent_temporary>
   </component>
@@ -194,14 +192,11 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="528" y="235" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1592376639823" />
-    <state x="532" y="313" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1586275123299">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="532" y="313" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1586275123299" />
-    <state x="424" y="26" key="CommitChangelistDialog2" timestamp="1592376836535">
+    <state x="424" y="26" key="CommitChangelistDialog2" timestamp="1592973598662">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="424" y="26" key="CommitChangelistDialog2/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1592376836535" />
+    <state x="424" y="26" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1592973598662" />
     <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1592374466653">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -210,72 +205,68 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="639" y="326" key="Github.ShareDialog/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1592375988122" />
-    <state width="429" height="565" key="GridCell.Tab.0.bottom" timestamp="1592972751320">
+    <state width="429" height="430" key="GridCell.Tab.0.bottom" timestamp="1595430979537">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="429" height="565" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1592972751320" />
+    <state width="429" height="430" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1595430979537" />
     <state width="526" height="951" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1589050731000" />
-    <state width="423" height="565" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1592904997992" />
-    <state width="429" height="565" key="GridCell.Tab.0.center" timestamp="1592972751320">
+    <state width="429" height="565" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1593545107436" />
+    <state width="429" height="430" key="GridCell.Tab.0.center" timestamp="1595430979536">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="429" height="565" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1592972751320" />
+    <state width="429" height="430" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1595430979536" />
     <state width="526" height="951" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1589050731000" />
-    <state width="423" height="565" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1592904997991" />
-    <state width="429" height="565" key="GridCell.Tab.0.left" timestamp="1592972751320">
+    <state width="429" height="565" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1593545107436" />
+    <state width="429" height="430" key="GridCell.Tab.0.left" timestamp="1595430979536">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="429" height="565" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1592972751320" />
+    <state width="429" height="430" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1595430979536" />
     <state width="526" height="951" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1589050731000" />
-    <state width="423" height="565" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1592904997991" />
-    <state width="429" height="565" key="GridCell.Tab.0.right" timestamp="1592972751320">
+    <state width="429" height="565" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1593545107434" />
+    <state width="429" height="430" key="GridCell.Tab.0.right" timestamp="1595430979537">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="429" height="565" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1592972751320" />
+    <state width="429" height="430" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1595430979537" />
     <state width="526" height="951" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1589050731000" />
-    <state width="423" height="565" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1592904997991" />
-    <state width="746" height="277" key="GridCell.Tab.1.bottom" timestamp="1592922737366">
+    <state width="429" height="565" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1593545107436" />
+    <state width="746" height="277" key="GridCell.Tab.1.bottom" timestamp="1595342677139">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="746" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1592922737366" />
-    <state width="1515" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1586794894843" />
-    <state width="746" height="277" key="GridCell.Tab.1.center" timestamp="1592922737366">
+    <state width="746" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1595342677139" />
+    <state width="746" height="277" key="GridCell.Tab.1.center" timestamp="1595342677139">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="746" height="277" key="GridCell.Tab.1.center/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1592922737366" />
-    <state width="1515" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1586794894843" />
-    <state width="746" height="277" key="GridCell.Tab.1.left" timestamp="1592922737366">
+    <state width="746" height="277" key="GridCell.Tab.1.center/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1595342677139" />
+    <state width="746" height="277" key="GridCell.Tab.1.left" timestamp="1595342677139">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="746" height="277" key="GridCell.Tab.1.left/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1592922737366" />
-    <state width="1515" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1586794894842" />
-    <state width="746" height="277" key="GridCell.Tab.1.right" timestamp="1592922737366">
+    <state width="746" height="277" key="GridCell.Tab.1.left/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1595342677139" />
+    <state width="746" height="277" key="GridCell.Tab.1.right" timestamp="1595342677139">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="746" height="277" key="GridCell.Tab.1.right/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1592922737366" />
-    <state width="1515" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1586794894843" />
+    <state width="746" height="277" key="GridCell.Tab.1.right/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1595342677139" />
     <state x="279" y="78" key="SettingsEditor" timestamp="1592375859019">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="279" y="78" key="SettingsEditor/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1592375859019" />
-    <state x="279" y="78" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1586530848623" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1592376854126">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1592973695103">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1592376854126" />
-    <state x="477" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1592971223947">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1592973695103" />
+    <state x="477" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1595942405721">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="477" y="260" key="com.intellij.ide.util.TipDialog/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1592971223947" />
-    <state x="477" y="260" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1586788799891" />
+    <state x="477" y="260" key="com.intellij.ide.util.TipDialog/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1595942405721" />
+    <state x="477" y="260" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1593538018956" />
     <state x="456" y="224" key="git4idea.merge.GitPullDialog" timestamp="1592376379275">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="456" y="224" key="git4idea.merge.GitPullDialog/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1592376379275" />
-    <state x="431" y="181" key="search.everywhere.popup" timestamp="1592890408104">
+    <state x="431" y="181" key="search.everywhere.popup" timestamp="1593538024718">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="431" y="181" key="search.everywhere.popup/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1592472718825" />
-    <state x="431" y="181" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1592890408104" />
+    <state x="431" y="181" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1593538024718" />
   </component>
 </project>
